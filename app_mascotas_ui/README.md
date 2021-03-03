@@ -1,6 +1,8 @@
 # app_mascotas_ui
 
-A new Flutter project.
+A new Flutter project - UI Pets
+
+![app_mascota](https://user-images.githubusercontent.com/42988089/109745469-e8c35a80-7ba1-11eb-8dd2-18a1bfcf6d3a.gif)
 
 ## Getting Started
 
