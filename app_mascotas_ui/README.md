@@ -1,6 +1,7 @@
 # app_mascotas_ui
 
 A new Flutter project - UI Pets
+Si te gusto, regalame una estrella, el codigo lo puedes tomar como desees.
 
 ![app_mascota](https://user-images.githubusercontent.com/42988089/109745469-e8c35a80-7ba1-11eb-8dd2-18a1bfcf6d3a.gif)
 
